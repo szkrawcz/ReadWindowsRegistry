@@ -1,0 +1,5 @@
+﻿  ReadWindowsRegistry.cpp
+f:\c++\github\readwindowsregistry\readwindowsregistry\readwindowsregistry.cpp(67): warning C4473: 'wprintf' : not enough arguments passed for format string
+  f:\c++\github\readwindowsregistry\readwindowsregistry\readwindowsregistry.cpp(67): note: placeholders and their parameters expect 3 variadic arguments, but 2 were provided
+  f:\c++\github\readwindowsregistry\readwindowsregistry\readwindowsregistry.cpp(67): note: the missing variadic argument 3 is required by format string '%s'
+  ReadWindowsRegistry.vcxproj -> F:\c++\github\ReadWindowsRegistry\ReadWindowsRegistry\x64\Debug\ReadWindowsRegistry.exe
